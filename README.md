@@ -14,13 +14,7 @@ Google Search Console was connected to monitor indexing, inspect important pages
 
 Page-level SEO was reviewed, including titles, meta descriptions, branded search visibility, and how key pages appeared in search results.
 
-Image: SEO title/meta description settings or Google search result for Govsera.
-
-<h2>Technical SEO Review</h2>
-
-Technical SEO issues were checked, including redirect errors, duplicate content warnings, and canonical URL concerns.
-
-Image: Indexing issue report, canonical warning, or redirect error screen.
+![](seo-lighthouse.png)
 
 <h2>Analytics Tracking</h2>
 
