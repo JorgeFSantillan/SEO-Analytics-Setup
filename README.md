@@ -49,4 +49,6 @@ A Lighthouse report was used to review the website’s performance, accessibilit
 <h2>Key Takeaway</h2>
 This work helped move the website beyond a basic launch and into a more measurable, search-ready state. The focus was not just on making the site look complete, but on making sure it could be found by Google, reviewed for technical issues, tracked through analytics, and improved based on real performance data.
 
+<br>
+
 [Return to Home](https://github.com/JorgeFSantillan)
