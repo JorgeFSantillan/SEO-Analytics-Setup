@@ -1,5 +1,7 @@
 <h1>SEO & Analytics Setup</h1>
 
+>  🔒 Some information have been redacted to protect confidentiality and security.
+
 After the main website structure was in place, the next step was to support how the site would be discovered, measured, and reviewed after launch. This section covers the setup and checks used to connect the website with Google’s search and analytics tools, review page visibility, and evaluate technical performance.
 
 <h2>Search Console & Indexing</h2>
@@ -28,7 +30,10 @@ Image: Google Analytics dashboard.
 
 <h2>Lighthouse Performance Review</h2>
 
-A Lighthouse report was used to review the website’s performance, accessibility, best practices, and SEO scores.
+A Lighthouse report was used to review the website’s performance, accessibility, best practices, and SEO scores. Improvements are an ongoing process, with updates made continuously over time.
+
+
+> Lighthouse reports are publicly accessible and do not require redaction.
 
 ![](lighthouse.png)
 
