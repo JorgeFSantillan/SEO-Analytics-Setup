@@ -6,7 +6,7 @@ After the main website structure was in place, the next step was to support how 
 
 Google Search Console was connected to monitor indexing, inspect important pages, request indexing, and review how Google was crawling the site.
 
-![](google-search.png)
+![](google-search1.png)
 
 <h2>Page-Level SEO</h2>
 
