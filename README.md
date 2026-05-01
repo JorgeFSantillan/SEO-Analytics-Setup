@@ -6,7 +6,7 @@ After the main website structure was in place, the next step was to support how 
 
 Google Search Console was connected to monitor indexing, inspect important pages, request indexing, and review how Google was crawling the site.
 
-Image: Google Search Console dashboard or URL Inspection screen.
+![](google-search.png)
 
 <h2>Page-Level SEO</h2>
 
@@ -30,7 +30,7 @@ Image: Google Analytics dashboard.
 
 A Lighthouse report was used to review the website’s performance, accessibility, best practices, and SEO scores.
 
-Image: Lighthouse report showing Performance, Accessibility, Best Practices, and SEO scores.
+![](lighthouse.png)
 
 <h2>Key Work Completed</h2>
 <ul>
