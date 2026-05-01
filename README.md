@@ -1,6 +1,6 @@
 <h1>SEO & Analytics Setup</h1>
 
->  🔒 Some information have been redacted to protect confidentiality and security.
+>  🔒 Some information has been redacted to protect confidentiality and security.
 
 After the main website structure was in place, the next step was to support how the site would be discovered, measured, and reviewed after launch. This section covers the setup and checks used to connect the website with Google’s search and analytics tools, review page visibility, and evaluate technical performance.
 
