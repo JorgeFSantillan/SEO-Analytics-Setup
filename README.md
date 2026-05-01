@@ -18,9 +18,9 @@ Page-level SEO was reviewed, including titles, meta descriptions, branded search
 
 <h2>Analytics Tracking</h2>
 
-Google Analytics was added to create a basic tracking foundation for website traffic, user activity, and future performance review.
+Google Analytics was added along with a plug-in with in wordpress to create a basic tracking foundation for website traffic, user activity, and future performance review.
 
-Image: Google Analytics dashboard.
+![](google-kit.png)
 
 <h2>Lighthouse Performance Review</h2>
 
