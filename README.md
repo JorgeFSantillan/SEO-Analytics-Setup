@@ -36,7 +36,7 @@ Google Analytics is added along with a WordPress plugin to establish a basic tra
 A Lighthouse report is used to evaluate performance, accessibility, best practices, and SEO scores. Improvements are ongoing, with updates made continuously over time.
 </p>
 
-> View the latest performance case study: <a href="https://github.com/JorgeFSantillan/SEO-Analytics-Setup">View</a>
+> View the latest performance case study: <a href="https://github.com/JorgeFSantillan/Performance-Optimization">View</a>
 
 ![](lighthouse.png)
 
